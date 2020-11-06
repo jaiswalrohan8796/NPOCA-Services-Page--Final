@@ -116,6 +116,7 @@ nav {
     margin-top: 6rem;
 }
 .headline-body {
+    line-height: 26px;
 	margin: 1rem;
 	padding: 0 18rem;
 }
