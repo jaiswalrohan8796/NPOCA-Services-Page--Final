@@ -298,7 +298,10 @@ ul {
     .headline-body {
 		margin: 1rem 1rem;
 		padding: 0 0rem;
-    }
+	}
+	.card-tagline {
+		padding: 0 0.4rem;
+	}
 
 }
 
